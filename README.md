@@ -2,7 +2,7 @@
 
 <br>
 I'm 14 year old programer located in germany,
-my programing journey has just begun as I am constantly learning new and exciting technology!
+my programing journey has just begun and I am constantly learning new and exciting technology!
 <br><br>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
