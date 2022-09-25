@@ -1,7 +1,7 @@
 ![Unbenannt](https://user-images.githubusercontent.com/63909127/146606078-f4d2f95a-d46e-480a-8bd2-5e5a5aefd63c.png)
 
 <br>
-I'm 14 year old programer located in germany,
+I'm a 14 year old programer located in germany,
 my programing journey has just begun and I am constantly learning new and exciting technology!
 <br><br>
 
