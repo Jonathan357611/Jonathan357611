@@ -1,8 +1,8 @@
 ![Unbenannt](https://user-images.githubusercontent.com/63909127/146606078-f4d2f95a-d46e-480a-8bd2-5e5a5aefd63c.png)
 
 <br>
-I'm a 14 year old programer located in germany,
-my programing journey has just begun and I am constantly learning new and exciting technology!
+I'm a 15 year old programer located in germany and I am constantly learning new stuff.
+I'd love some feedback on some of my projects :)
 <br><br>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
