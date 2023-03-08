@@ -3,7 +3,10 @@
 <br>
 I'm a 15 year old programer located in germany and I am constantly learning new stuff.
 I'd love some feedback on some of my projects :)
-<br><br>
+<br>
+[You can check out some of my work on my website](https://jonathan357611.github.io)
+<br>
+And here some stats:
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
