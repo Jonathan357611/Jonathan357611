@@ -1,12 +1,14 @@
-![Unbenannt](https://user-images.githubusercontent.com/63909127/146606078-f4d2f95a-d46e-480a-8bd2-5e5a5aefd63c.png)
+![](https://user-images.githubusercontent.com/63909127/146606078-f4d2f95a-d46e-480a-8bd2-5e5a5aefd63c.png)
 
 <br>
 I'm a 15 year old programer located in germany and I am constantly learning new stuff.
 I'd love some feedback on some of my projects :)
+<br><br>
+
+[Website](https://www.jonathan357611.github.io)
+
 <br>
-[You can check out some of my work on my website](https://jonathan357611.github.io)
-<br>
-And here some stats:
+And here are some stats:
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
