@@ -16,12 +16,8 @@ And here are some stats:
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br>
-
-![](https://github-readme-stats.vercel.app/api?username=Jonathan357611&theme=radical)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan357611&theme=radical)
 
-Donate ETH:
-```0x1f2C6e62622051b3F4d4a3545B17018704630c35```
